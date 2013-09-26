@@ -1,0 +1,6 @@
+# Redcarpet is the markdown processor tha giHub uses
+# It is the library that will take our markdown and convert it to HTML 
+markdown: redcarpet
+# write the URL path that follows username.githun.io
+# examples: http://bada0020.github.io
+baseurl: /dinosaur
